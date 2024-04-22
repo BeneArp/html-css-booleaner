@@ -1,0 +1,133 @@
+/* azzeramento parametri */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    width: 18%;
+}
+
+header{
+    background-color: rgb(53, 154, 216);
+    background-image: url("../img/pattern.png");
+    background-size: 300px;
+    width: 100%;
+}
+
+.contenitore{
+    width: 80%;
+    margin: auto;
+}
+
+/* formattazione notizia principale */
+
+#notizia span {
+    color: rgb(168, 166, 166);
+}
+
+#notizia strong {
+    color: rgb(0, 162, 255);
+}
+
+.dettagli{
+    font-size: 12px;
+    color: black;
+}
+
+.data{
+    font-size: 12px;
+}
+
+#tim1{
+    width: 50%;
+    margin: 12px 0 10px 0;
+}
+
+#tim2{
+    width: 43%;
+    margin: 12px 0 10px 0;
+}
+
+#notizia h1 {
+    font-size: 50px;
+}
+
+
+/* formattazione corpo pagina */
+.evidenziato{
+    background-color: yellow;
+}
+
+section p {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+section ul {
+    margin-bottom: 20px;
+}
+
+/* formattazione stile tabella */
+
+.sinistra{
+    display: inline-block;
+    width: 20%;
+}
+
+.centro{
+    display: inline-block;
+    width: 20%;
+}
+
+
+.destra{
+    display: inline-block;
+    width: 56%;
+}
+
+.titolo{
+    background-color: rgb(32, 184, 255);
+    color: white;
+}
+
+.azz_chiaro{
+    background-color: rgb(136, 214, 250);
+}
+
+
+/* formattazione articoli consigliati */
+
+.consigli h3 {
+
+    color: rgb(168, 166, 166);
+}
+
+#articolo_monitor {
+    width: 321px;
+    height: 208px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    margin: 10px 0 12px 0;
+}
+
+#articolo_monitor h2 {
+    color: white;
+    padding: 10px;
+}
+
+#articolo_grafico{
+    width: 311px;
+    height: 207px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+#articolo_grafico h2 {
+    color: white;
+    padding: 10px;
+    
+}
