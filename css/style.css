@@ -7,3 +7,38 @@ header{
     background-image: url("../img/pattern.png");
     background-size: 300px;
 }
+
+/* formattazione articoli consigliati */
+
+.consigli h3 {
+
+    color: rgb(168, 166, 166);
+}
+
+#articolo_monitor {
+    width: 321px;
+    height: 208px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+#articolo_monitor h2 {
+    color: white;
+    padding: 10px;
+}
+
+#articolo_grafico{
+    width: 311px;
+    height: 207px;
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+#articolo_grafico h2 {
+    color: white;
+    padding: 10px;
+    
+}
