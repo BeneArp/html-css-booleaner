@@ -8,6 +8,10 @@ header{
     background-size: 300px;
 }
 
+body{
+    width: 50%;
+}
+
 /* formattazione articoli consigliati */
 
 .consigli h3 {
@@ -61,6 +65,7 @@ header{
     font-size: 12px;
     color: black;
 }
+
 
 /* formattazione corpo pagina */
 .evidenziato{
