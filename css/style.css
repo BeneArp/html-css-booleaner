@@ -9,7 +9,7 @@ header{
 }
 
 body{
-    width: 50%;
+    width: 70%;
 }
 
 /* formattazione articoli consigliati */
@@ -64,6 +64,14 @@ body{
 .dettagli{
     font-size: 12px;
     color: black;
+}
+
+#tim1{
+    width: 49%;
+}
+
+#tim2{
+    width: 42%;
 }
 
 
