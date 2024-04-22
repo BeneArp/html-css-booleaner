@@ -80,6 +80,10 @@ body{
     background-color: yellow;
 }
 
+ul{
+    padding: 15px;
+}
+
 /* formattazione stile tabella */
 
 .sinistra{
