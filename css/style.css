@@ -67,6 +67,29 @@ header{
     background-color: yellow;
 }
 
-p{
-    width: 40%;
+/* formattazione stile tabella */
+
+.sinistra{
+    display: inline-block;
+    width: 20%;
+}
+
+.centro{
+    display: inline-block;
+    width: 20%;
+}
+
+
+.destra{
+    display: inline-block;
+    width: 56%;
+}
+
+.titolo{
+    background-color: rgb(32, 184, 255);
+    color: white;
+}
+
+.azz_chiaro{
+    background-color: rgb(136, 214, 250);
 }
