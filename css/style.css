@@ -42,3 +42,22 @@ header{
     padding: 10px;
     
 }
+
+.data{
+    font-size: 12px;
+}
+
+/* formattazione notizia principale */
+
+#notizia span {
+    color: rgb(168, 166, 166);
+}
+
+#notizia strong {
+    color: rgb(0, 162, 255);
+}
+
+.dettagli{
+    font-size: 12px;
+    color: black;
+}
